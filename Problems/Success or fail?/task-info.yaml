@@ -1,0 +1,14 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: |-
+    import requests
+
+
+    def check_success(url):
+        pass
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8608
+status: Solved
+record: -1
